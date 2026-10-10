@@ -1,0 +1,6 @@
+# MY LINUX LEARNING DAY-02
+**whoami**: displays the username of the current user logged into the terminal.
+**df -h[disk free]**: it is used to check the storage of server. important for checking EBS volume in AWS.
+**free -h[free memory]**: displays how much memory is utilized or free.
+**top**: this command list all the running programs live ranked by how much CPU and RAM they are stealing. enter 'q' so that you can exit out of it.
+**ps aux**: instead of live updating it takes static snapshot of all running program.
